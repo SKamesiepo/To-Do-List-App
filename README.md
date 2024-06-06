@@ -1,16 +1,16 @@
 # To-Do List App
 
-A new Flutter project.
+A To Do List App Built with Flutter and Dart
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Use the command "flutter run" to start the application
 
-A few resources to get you started if this is your first Flutter project:
+Prerequisites:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Flutter SDK:  You'll need the Flutter SDK installed on your machine. 
+You can download it from the official website: https://docs.flutter.dev/get-started/install. Follow the installation instructions for your specific operating system (Windows, macOS, or Linux).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Either have an emulator or a mobile device connected to your computer to run application and view app, or alternatively (On Android, package the application into an APK, run it and install it on your device)
+
+3. Command Line Tool:  Make sure you have access to a command line tool (terminal on macOS/Linux or Command Prompt on Windows) to run the commands.
